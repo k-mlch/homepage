@@ -275,6 +275,10 @@ h4 {
     font-size: 15px;
 }
 
+li {
+    margin-bottom: 3px;
+}
+
 img {
     transition: transform .7s ease-in-out ;
 }
